@@ -1,0 +1,94 @@
+.footer {
+    background-color: #1ea78d;
+    border-top: 5px solid #062033;
+    color: white;
+    width: 1650px;
+    height: 410px;
+}
+.footer a{
+    color: white;
+}
+.footer a:hover {
+    color: #062033;
+}
+
+.footer h6 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.about-us p {
+    line-height: 24px;
+}
+
+.footer-single .subscribe {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.subscribe #subscribe {
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    height: 40px;
+    text-indent: 10px;
+    width: 100%;
+}
+
+.subscribe #subs {
+    background-color: transparent;
+    border: 0 none;
+    font-size: 24px;
+    position: absolute;
+    right: 0;
+    top: 6px;
+}
+
+.footer-single {
+    line-height: 24px;
+    margin-top: 100px;
+    list-style-type: none;
+    color: white;
+
+}
+.Footer-logo{
+    margin-bottom: 20px;
+}
+.footer-logo{
+    margin-top: 80px;
+}
+.footer-single ul {
+    color: white;
+    margin-top: -10px;
+}
+
+.footer-single li {
+    line-height: 32px;
+    color: white;
+}
+
+.footer-single p i {
+    margin: 0 10px;
+}
+.footer-contact{
+    margin-top: 150px;
+    list-style-type: none;
+    line-height: 30px;
+
+}
+.themecurve{
+    color: black;
+}
+.footer-year{
+    color: black;
+    margin-top: 40px;
+}
+ul{
+    padding: 0;
+}
+.footer-contact-live{
+    padding-left: 5px;
+    padding-right: 7px;
+}
