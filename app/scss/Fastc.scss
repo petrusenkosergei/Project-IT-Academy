@@ -1,0 +1,109 @@
+
+.sec-title {
+}
+
+.sec-title h2 {
+  color: #0eb493;
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.sec-sub-title {
+  margin: 35px 0 45px;
+}
+
+.sec-sub-title p {
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 18px;
+  color: #5b646e;
+}
+
+.devider {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.devider i {
+  color: #cccccc;
+}
+
+.devider:before,
+.devider:after {
+  content: "______________________";
+  color: #e6e8ea;
+  position: relative;
+  bottom: 6px;
+}
+
+.devider:before {
+  right: 10px;
+}
+
+.devider:after {
+  left: 10px;
+}
+
+.mb50 {
+  margin-bottom: 50px;
+
+}
+#facts {
+  background-image: url("../img/parallax/city.jpg");
+  background-color: rgba(6,32,51,.8);
+  background-attachment: fixed !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  width: 1650px;
+}
+
+.facts .devider:before,
+.facts .devider:after {
+  color: #737C85;
+}
+
+.facts .devider i {
+  color: #fff;
+}
+
+
+.parallax-overlay {
+  background-color: rgba(6,32,51,.8);
+  padding: 70px 0;
+}
+
+.counters-item {
+  color: #fff;
+}
+
+.counters-item i {
+  border: 1px solid #737C85;
+  border-radius: 50%;
+  color: #fff;
+  display: inline-block;
+  height: 120px;
+  margin: 0 0 35px;
+  padding: 40px 0 0;
+  width: 120px;
+
+}
+
+.counters-item strong {
+  display: block;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 60px;
+
+}
+
+.counters-item p {
+  font-size: 18px;
+  line-height: 24px;
+  margin-top: 15px;
+  text-transform: uppercase;
+}
+

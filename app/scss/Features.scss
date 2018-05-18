@@ -1,0 +1,133 @@
+
+.Features {
+  height: 460px;
+  width: 1650px;
+  display: block;
+  position: relative;
+  border: none;
+  background-color: #f3f6f5; }
+
+.NameFeatures {
+  color: #0eb493;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 28px;
+  font-family: Extrabold;
+  padding-top: 73px; }
+
+.FeaturesCarousel-caption p {
+  font-weight: 300;
+  text-align: center;
+}
+
+.FeaturesCarousel-caption p:before,
+.FeaturesCarousel-caption p:after {
+  color: #dce1e5;
+  content: "____________________";
+  position: relative;
+  top: -8px;
+  margin-bottom: 73px; }
+
+.FeaturesCarousel-caption p:before {
+  right: 20px; }
+
+.FeaturesCarousel-caption p:after {
+  left: 20px; }
+
+.FeaturesCarousel-caption p:before {
+  right: 20px; }
+
+.FeaturesCarousel-caption p:after {
+  left: 20px; }
+
+.service-desc-radius-Branding {
+  width: 36px;
+  height: 36px;
+  border-radius: 55px;
+  border: 2px solid #0eb493;
+  display: inline-block;
+  margin-left: 220px; }
+
+.service-desc-logo-Branding {
+  background-image: url(../img/feather.png);
+  width: 30px;
+  height: 30px;
+  margin-left: 11px;
+  margin-top: 7px;
+  background-repeat: no-repeat; }
+
+.service-desc-name-Branding {
+  margin-top: -45px;
+  margin-left: 270px;
+  font-size: 20px; }
+
+.service-desc-history-Branding {
+  margin-left: 270px;
+  width: 270px;
+  height: 30px;
+  color: #7c848b;
+  font-size: 13px; }
+
+.service-desc-radius-Development {
+  width: 36px;
+  height: 36px;
+  border-radius: 55px;
+  border: 2px solid #0eb493;
+  display: inline-block;
+  margin-left: 100px; }
+
+.service-desc-logo-Development {
+  background-image: url(../img/pencil.png);
+  width: 30px;
+  height: 30px;
+  margin-left: 8px;
+  margin-top: 8px;
+  background-repeat: no-repeat; }
+
+.service-desc-name-Development {
+  margin-top: -45px;
+  margin-left: 160px;
+  font-size: 20px; }
+
+.service-desc-history-Development {
+  margin-left: 160px;
+  width: 270px;
+  height: 30px;
+  color: #7c848b;
+  font-size: 13px; }
+
+.service-desc-radius-Consulting {
+  width: 36px;
+  height: 36px;
+  border-radius: 55px;
+  border: 2px solid #0eb493;
+  display: inline-block; }
+
+.service-desc-logo-Consulting {
+  background-image: url(../img/megaphone.png);
+  width: 30px;
+  height: 30px;
+  margin-left: 8px;
+  margin-top: 7px;
+  background-repeat: no-repeat; }
+
+.service-desc-name-Consulting {
+  margin-top: -45px;
+  margin-left: 50px;
+  font-size: 20px; }
+
+.service-desc-history-Consulting {
+  margin-left: 50px;
+  width: 270px;
+  height: 30px;
+  color: #7c848b;
+  font-size: 13px; }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; }
+
+.flex-item {
+  width: 3000px;
+  height: 50px; }
